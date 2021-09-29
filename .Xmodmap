@@ -1,3 +1,3 @@
 remove Lock = Caps_Lock
-keysym Caps_Lock = Control_L Caps_Lock NoSymbol NoSymbol
+keysym Caps_Lock = Control_L NoSymbol NoSymbol NoSymbol
 add Control = Control_L
